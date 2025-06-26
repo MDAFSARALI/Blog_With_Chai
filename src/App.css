@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+body {
+  margin: 0;
+  padding: 0;
+background: linear-gradient(135deg, #dfe9f3, #a1c4fd);
+  color: #222;
+  font-family: 'Inter', sans-serif;
+}
+
+
