@@ -74,7 +74,7 @@ const router = createBrowserRouter([
             element: <Post />,
         },
         {
-            path: "*",
+            path: "/*",
             element: <NotFound />,
         }
     ],
